@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-<img src="../images/duolingo-icon.svg" height="50">
-<img src="../images/pdf-icon.png" height="50">
+<img src="../images/duolingo-icon.svg" height="50"> <img src="../images/pdf-icon.png" height="50">
 
 - [Digital PDF's form Duome.eu](#digital-pdfs-form-duomeeu)
 
